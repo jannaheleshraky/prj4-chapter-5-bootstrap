@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* CSS Document */
+#h1pizzia {
+color: white;
+margin-left: 20px;
+background-image: url("../images/achtergrond.jpg");
+margin-right: 20px;
+font-family: 'Bebas Neue', cursive;
+}
+body {
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+#breda {
+	width: 300px;
+	height: 200px;
+}
